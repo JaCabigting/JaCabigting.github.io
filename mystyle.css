@@ -1,13 +1,10 @@
 body { background-color: darkslategrey; }
-.column {
-	float: left;
-	width: 50%;
+.row {
+	display: flex;
 }
 
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
+.column {
+	flex: 50%;
 }
 
 h1 {text-align: center; color: gold;}
