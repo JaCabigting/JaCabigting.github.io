@@ -1,4 +1,14 @@
 body { background-color: darkslategrey; }
-div { border: 10px solid white; }
+.column {
+	float: left;
+	width: 50%;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
 h1 {text-align: center; color: gold;}
 p {font-size: 24px;}
