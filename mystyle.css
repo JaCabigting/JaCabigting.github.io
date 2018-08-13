@@ -1,5 +1,4 @@
 body { background-color: darkslategrey; }
 div { border: 10px solid white; }
 h1 {text-align: center; color: gold;}
-p1 {font-size: 24px;}
-p2 {font-size: 24px;}
+p {font-size: 24px;}
