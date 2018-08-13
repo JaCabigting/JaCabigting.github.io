@@ -1,12 +1,5 @@
 body { background-color: darkslategrey; }
 div { border-color: white; }
-.row {
-	display: flex;
-}
-
-.column {
-	flex: 50%;
-}
 
 h1 {text-align: center; color: gold;}
 p {font-size: 24px;}
