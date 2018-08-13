@@ -1,4 +1,5 @@
 body { background-color: darkslategrey; }
+div { border-color: white; }
 .row {
 	display: flex;
 }
