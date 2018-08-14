@@ -4,4 +4,4 @@ div { border-color: white; }
 h1 {text-align: center; color: gold;}
 p {font-size: 30px; color: white;}
 div.border {border-color: white; border-style: solid;}
-.image {border-color: white; border-style: solid; border-width: 5px;}
+.image {border-color: white; border-style: solid; border-width: 15px;}
